@@ -8,8 +8,9 @@ Trabalho final do grupo:
  - Raquel Martins   
  - Rosane Correa
 
-   
- ![enter image description here](./images/aedes.webp)
+<p align="center">
+  <img src="./images/aedes.webp" />
+</p>   
 
 As febres virais constituem um grupo de doenças de alta incidência e frequentemente relacionadas a agentes infecciosos em países tropicais. No contexto epidemiológico brasileiro, dentro desse grupo, destacam-se as arboviroses (DIAS, 2020). Neste projeto trabalharemos com febres virais, principalmente Dengue e Dengue hemorrágica, entre outras. Há 40 anos, o Brasil sofre com sucessivas epidemias de Dengue que causam milhares de episódios de adoecimento, óbitos, sobrecarga dos serviços de saúde e prejuízos sociais e econômicos inestimáveis (SBIm; SBI; SBMT, 2023). Deste modo entende-se, portanto, a importância de monitorar os dados sobre as febres virais para elaborar ações que viabilizem a prevenção e controle dessas doenças.
 
