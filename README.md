@@ -18,3 +18,5 @@ As febres virais, como Dengue, Zika e Chikungunya anualmente acometem milhares i
 Dessa forma, torna-se importante estudar o desenvolvimento das febres virais no Rio de Janeiro, entendendo como as doenças afetam cada região/município estado, tendo em vista as diferenças geográficas e sóciodemográficas entre os municípios, visando melhorar as decisões de Saúde Pública de forma direcionar melhor os recursos financeiros e verificar as regiões onde o foco do combate deve ser mais intensificado.
 
 O objetivo do trabalho é fazer uma análise espacial dos casos de internação por febres virais que resultaram em óbitos no Estado do Rio de Janeiro no período entre 2010 a 2021, visando enterder melhor a distribuição os casos nos municípios tendo como base informações de posição geográfica dos municípios de ocorrência e sóciodemográficos populacionais.
+
+Abra nosso Colab no link: https://github.com/RaquelSMartins/Trabalho_Final_PCDAS/blob/main/Trabalho_Final.ipynb 
